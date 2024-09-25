@@ -61,14 +61,4 @@ TeleCalorie is a calorie tracking application integrated directly into Telegram 
 - Cloud-based database for user data storage and retrieval
 - Python for backend logic and API integrations
 
-## Contributing
-
-We welcome contributions to TeleCalorie! If you have suggestions or want to contribute code, please:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 Developed with ❤️ by [JohnYeow]
